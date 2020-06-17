@@ -1,0 +1,203 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReadData",
+            "request": "launch",
+            "mainClass": "ReadData",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TrominoProblem",
+            "request": "launch",
+            "mainClass": "TrominoProblem",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestE",
+            "request": "launch",
+            "mainClass": "TestE",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestCompare",
+            "request": "launch",
+            "mainClass": "TestCompare",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StudentInfo",
+            "request": "launch",
+            "mainClass": "StudentInfo",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Score",
+            "request": "launch",
+            "mainClass": "Score",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Book",
+            "request": "launch",
+            "mainClass": "Book",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyTime",
+            "request": "launch",
+            "mainClass": "MyTime",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClosestPair",
+            "request": "launch",
+            "mainClass": "ClosestPair",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test2",
+            "request": "launch",
+            "mainClass": "Test2",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test1",
+            "request": "launch",
+            "mainClass": "Test1",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Circle",
+            "request": "launch",
+            "mainClass": "Circle",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Retangle",
+            "request": "launch",
+            "mainClass": "Retangle",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Triangle",
+            "request": "launch",
+            "mainClass": "Triangle",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Complex",
+            "request": "launch",
+            "mainClass": "Complex",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NumMove",
+            "request": "launch",
+            "mainClass": "NumMove",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CharStatistics",
+            "request": "launch",
+            "mainClass": "CharStatistics",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LetterStatistics",
+            "request": "launch",
+            "mainClass": "LetterStatistics",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Example<experimentCourse_9e5a9dd>",
+            "request": "launch",
+            "mainClass": "Example",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FactorialSum<experimentCourse_9e5a9dd>",
+            "request": "launch",
+            "mainClass": "FactorialSum",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HelloWorld<experimentCourse_9e5a9dd>",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PerfectNumber<experimentCourse_9e5a9dd>",
+            "request": "launch",
+            "mainClass": "PerfectNumber",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrimeNum<experimentCourse_9e5a9dd>",
+            "request": "launch",
+            "mainClass": "PrimeNum",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringTest<experimentCourse_9e5a9dd>",
+            "request": "launch",
+            "mainClass": "StringTest",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ThreeNum<experimentCourse_9e5a9dd>",
+            "request": "launch",
+            "mainClass": "ThreeNum",
+            "projectName": "experimentCourse_9e5a9dd"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UpperString<experimentCourse_9e5a9dd>",
+            "request": "launch",
+            "mainClass": "UpperString",
+            "projectName": "experimentCourse_9e5a9dd"
+        }
+    ]
+}
