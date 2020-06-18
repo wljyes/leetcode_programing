@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - X",
+            "request": "launch",
+            "mainClass": "linkedList.X",
+            "projectName": "leetcode_c103023a"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - RemoveReciprocalNum",
             "request": "launch",
             "mainClass": "linkedList.RemoveReciprocalNum",
