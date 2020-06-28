@@ -7,20 +7,18 @@ public class ReverseBetween {
         dummy.next = head;
 
         ListNode slow = dummy;
+        //慢指针移动到要交换的第一个节点之前
         for (int i = 0; i < m - 1; i++) {
             slow = slow.next;
         }
-
-        ListNode fast = slow;
-        for (int i = m - 1; i < n; i++) {
-            fast = fast.next;
-        }
-
-        while (slow.next != fast) {
-            ListNode node = slow.next;
-            slow.next = slow.next.next;
-            node.next = fast.next;
-            fast.next = node;
+        //快指针指向第一个要交换的节点
+        ListNode fast = slow.next;
+        //将第一个要交换的节点之后的 n - m - 1 个节点换到 slow 之后
+        for (int i = m; i < n; i++) {
+            ListNode node = fast.next;
+            fast.next = fast.next.next;
+            node.next = slow.next;
+            slow.next = node;
         }
 
         return dummy.next;
