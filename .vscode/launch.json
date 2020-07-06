@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - N",
+            "request": "launch",
+            "mainClass": "linkedList.N",
+            "projectName": "leetcode_c103023a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Str",
+            "request": "launch",
+            "mainClass": "linkedList.Str",
+            "projectName": "leetcode_c103023a"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - DirScan",
             "request": "launch",
             "mainClass": "linkedList.DirScan",
